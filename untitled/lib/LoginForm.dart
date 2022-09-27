@@ -19,6 +19,7 @@ class Login extends StatelessWidget {
           const Center(
               child: Text("Login Page",
                   style: TextStyle(fontSize: 45, color: Colors.deepPurple))),
+
           const Padding(
             padding:
             EdgeInsets.all(20.0),
